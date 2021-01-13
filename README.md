@@ -11,4 +11,4 @@ The tool accepts 2 parameters the first one the 0 based monitor index  (so monit
 to display the image fullscreen on second monitor
 Image_Monitor_View.exe 1 "C:\PinballX\Media\Malzbies Pinball Collection\Backglass Images\garden.png"
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](joyrider3774@hotmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/joyrider3774)
