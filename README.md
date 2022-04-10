@@ -1,4 +1,6 @@
 # Image_Monitor_View
+![DownloadCountTotal](https://img.shields.io/github/downloads/joyrider3774/Image_Monitor_View/total?label=total%20downloads&style=plastic) ![DownloadCountLatest](https://img.shields.io/github/downloads/joyrider3774/Image_Monitor_View/latest/total?style=plastic) ![LatestVersion](https://img.shields.io/github/v/tag/joyrider3774/Image_Monitor_View?label=Latest%20version&style=plastic) ![License](https://img.shields.io/github/license/joyrider3774/Image_Monitor_View?style=plastic)
+
 Image_Monitor_View is a little tool to display GIF, PNG, BMP or JPG image fullscreen stretched, always on top on a certain monitor. I created it for my pinball cabinet to display backglass pictures using launch before script for pinballx while playing
 certain games that do not have build in backglass support.
 
